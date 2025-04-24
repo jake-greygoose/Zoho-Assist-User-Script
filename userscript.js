@@ -6,6 +6,9 @@
 // @author       You
 // @match        https://assist.espi.net/*
 // @match        https://assist.zoho.eu/*
+// @homepageURL  https://github.com/jake-greygoose/Zoho-Assist-User-Script
+// @supportURL   https://github.com/jake-greygoose/Zoho-Assist-User-Script/issues
+// @license      MIT
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
